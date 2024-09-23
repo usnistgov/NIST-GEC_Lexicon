@@ -1,0 +1,25 @@
+# Genome Editing Concepts
+- id: nist_gec_lexicon:GeneEditing
+  label: gene editing
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts
+- id: nist_gec_lexicon:GenomeEditing
+  label: genome editing
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts
+- id: nist_gec_lexicon:GenomeEngineering
+  label: genome engineering
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts
+- id: nist_gec_lexicon:OffTarget
+  label: off-target
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts
+- id: nist_gec_lexicon:Specificity
+  label: specificity
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts
+- id: nist_gec_lexicon:Target
+  label: target
+  conforms_to: GenomeEditingConcepts
+  subClassOf: nist_gec_lexicon:GenomeEditingConcepts

@@ -4,7 +4,11 @@ NIST Genome Editing Lexicon ontology repo with LinkML
 
 ## Website
 
-[https://NIST.github.io/NIST-GEC_Lexicon](https://NIST.github.io/NIST-GEC_Lexicon)
+- [GitHub Repo](https://NIST.github.io/NIST-GEC_Lexicon)
+- [NIST Genome Editing Consortium Lexicon Webpage](https://www.nist.gov/programs-projects/nist-genome-editing-lexicon)
+- [ISO: ISO 5058-1:2021 Biotechnology — Genome editing Part 1: Vocabulary](https://www.iso.org/standard/80679.html)
+- [BioPortal: NIST Genome Editing Lexicon (NIST_GEL)]()
+
 
 ## Repository Structure
 
