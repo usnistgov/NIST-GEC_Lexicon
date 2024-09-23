@@ -1,0 +1,27 @@
+{
+  "template": "https://github.com/linkml/linkml-project-cookiecutter",
+  "commit": "b2da87eb7835bfec748a76823d098cac85e8363a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "NIST-GEC_Lexicon",
+      "__project_slug": "nist_gec_lexicon",
+      "github_org": "NIST",
+      "__source_path": "src/nist_gec_lexicon/schema/nist_gec_lexicon.yaml",
+      "project_description": "NIST Genome Editing Lexicon ontology repo with LinkML",
+      "full_name": "Sierra D. Miller",
+      "email": "sierra.miller@nist.gov",
+      "__author": "Sierra D. Miller <sierra.miller@nist.gov>",
+      "license": "MIT",
+      "main_schema_class": "Person",
+      "create_python_classes": "Yes",
+      "use_schemasheets": "No",
+      "google_sheet_id": "1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ",
+      "google_sheet_tabs": "personinfo enums",
+      "__google_sheet_module": "personinfo_enums",
+      "github_token_for_pypi_deployment": "PYPI_PASSWORD",
+      "_template": "https://github.com/linkml/linkml-project-cookiecutter"
+    }
+  },
+  "directory": null
+}
